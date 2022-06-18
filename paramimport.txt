@@ -1,0 +1,9 @@
+[user]
+corp\XXXXX
+[pass]
+XXXXXXXX
+[tenant]
+UEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
